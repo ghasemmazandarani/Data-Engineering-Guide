@@ -99,7 +99,7 @@ Like a warehouse worker organizing products:
 
 ## 🎓 Learning Roadmap
 
-### 1. SQL & Database Fundamentals (3 months) 📚
+### 1. SQL & Database Fundamentals 📚
 - Database Basics
   * Table design and relationships
   * Data types
@@ -114,7 +114,7 @@ Like a warehouse worker organizing products:
   * Stored Procedures
   * Triggers
 
-### 2. Database Management Systems (4 months) 💾
+### 2. Database Management Systems 💾
 #### PostgreSQL
 - Installation and configuration
 - User and permission management
@@ -129,7 +129,7 @@ Like a warehouse worker organizing products:
 - Monitoring and Performance
 - Backup and Recovery
 
-### 3. Advanced Database Concepts (3 months) 🎯
+### 3. Advanced Database Concepts 🎯
 - Database Architecture
   * OLTP vs OLAP
   * Data Warehouse vs Data Lake
@@ -140,13 +140,13 @@ Like a warehouse worker organizing products:
   * Column-based (Cassandra)
   * Time-series (InfluxDB)
 
-### 4. ETL Tools & Data Pipeline (3 months) 🔄
+### 4. ETL Tools & Data Pipeline 🔄
 - Apache Airflow
 - Apache NiFi
 - SSIS and Talend
 - Custom ETL solutions
 
-### 5. Complementary Skills (3 months) 🛠️
+### 5. Complementary Skills 🛠️
 - Programming
   * Python (pandas, numpy)
   * Shell Scripting
